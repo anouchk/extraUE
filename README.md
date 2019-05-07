@@ -1,4 +1,4 @@
-# Compter les étudiants extracommunautaires en diplôme national dans le fichier open data des inscrits du MESRI
+# Compter les étudiants extracommunautaires en diplôme national dans le <a href="https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/information/">fichier open data des inscrits du MESRI</a>
 
 L'objectif de ce script est de calculer le nombre d'étudiants étrangers issus de pays non européens et de systèmes éducatifs non européens, inscrits dans des universités françaises en 2017. 
 
