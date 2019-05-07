@@ -8,6 +8,6 @@ Ce travail a permis la publication d'une <a href="aefinfo.fr/depeche/599834">dé
 
 **// Impact de politique publique**
 
-La mission "Bienvenue en France" plaidait en février 2019 pour exclure de la hausse des frais d'inscription, à l'étude pour les étudiants hors UE, les doctorants. Selon ce décompte, ces doctorants, bien moins nombreux que les étudiants en L ou en M, sont pour un tiers des extracommunautaires.
+A posteriori, il a également permis d'avoir les ordres de grandeur en tête lors d'annonces sur la hausse des droits d'inscription des étudiants étrangers. La mission "Bienvenue en France" plaidait en février 2019 pour exclure de la hausse des frais d'inscription, à l'étude pour les étudiants hors UE, les doctorants. Selon ce décompte, ces doctorants, bien moins nombreux que les étudiants en L ou en M, sont pour un tiers des extracommunautaires.
 
-Elle préconisait par ailleurs de hisser le seuil réglementaire d’exonération de frais d'inscription d'une université (10% des étudiants inscrits) à 15 % à terme. Selon ce décompte, 12 universités voient la part de leurs extracommunautaires dépasser le seuil actuel
+Elle préconisait par ailleurs de hisser le seuil réglementaire d’exonération de frais d'inscription d'une université (10% des étudiants inscrits) à 15 % à terme. Selon ce décompte, 12 universités voient la part de leurs extracommunautaires dépasser le seuil actuel.
